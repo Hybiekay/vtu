@@ -1,0 +1,54 @@
+[18-Feb-2024 06:37:17 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/register/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[15-Jul-2024 16:17:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2005] Unknown server host 'sdb-m.hosting.stackcp.net' (-2) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/register/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29
+[15-Jul-2024 16:20:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'abakfcnn_abakfcnn'@'localhost' (using password: YES) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/register/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29
+[15-Jul-2024 16:20:45 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'abakfcnn_abakfcnn'@'localhost' (using password: YES) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/register/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29
+[15-Jul-2024 16:20:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'abakfcnn_abakfcnn'@'localhost' (using password: YES) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/register/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29
+[15-Jul-2024 16:22:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'abakfcnn_abakfcnn'@'localhost' (using password: YES) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/register/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29

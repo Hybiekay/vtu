@@ -1,0 +1,1 @@
+{"status":"fail","message":"Invalid Meter Number"}:https://n3tdata.com/api/bill/

@@ -1,0 +1,14 @@
+[19-Feb-2024 19:20:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 207
+[19-Feb-2024 19:20:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 258
+[19-Feb-2024 19:20:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 256
+[19-Feb-2024 19:22:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 207
+[19-Feb-2024 19:22:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 258
+[19-Feb-2024 19:22:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 256
+[19-Feb-2024 19:28:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 207
+[19-Feb-2024 19:28:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 258
+[19-Feb-2024 19:28:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 256
+[19-Feb-2024 20:01:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 207
+[19-Feb-2024 20:01:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/benazdat/app.benazdata.com/core/Controllers/Cable.php on line 258
+[19-Feb-2024 20:01:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 256
+[02-Apr-2024 14:12:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 251
+[02-May-2024 21:07:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/cabletv/index.php on line 251

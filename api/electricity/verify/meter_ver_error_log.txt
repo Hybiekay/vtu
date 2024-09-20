@@ -1,0 +1,6 @@
+{"status":"fail","message":"invalid Meter Number"}{
+                "meter_number": "45076648489",
+            	"meter_type" : "prepaid",
+            	"amount" : "1000",
+            	"service" : "2"
+            }

@@ -1,0 +1,657 @@
+[11-May-2024 16:25:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:25:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:25:26 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:25:29 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:25:29 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:25:30 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:25:30 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:16 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:18 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:18 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:19 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:19 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:31 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:31 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:38 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:26:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:40 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:40 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:40 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:27:40 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:30:30 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:32:44 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:33:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:34:26 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:36:17 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:36:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:50 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:50 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:36:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:06 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:06 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:38 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:37:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:40 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:40 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:52 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:52 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:38:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:01 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:39:05 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:05 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:06 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:06 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:16 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:39:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:12 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 16:56:16 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:19 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:19 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:56 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:59 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:56:59 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:08 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:12 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:12 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:14 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:14 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:30 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:30 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:35 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:35 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:36 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:36 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 16:57:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:29 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:29 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:32 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:01:32 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:30 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:30 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:31 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:31 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:02:51 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:03:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:24 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:24 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:03:50 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:04:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:04:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:04:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:04:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:04:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:04:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:38 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:42 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:42 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:05:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:42 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:10:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:10:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:11:50 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:11:50 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:11:58 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:11:58 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:07 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:07 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:18 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:12:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:26 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:26 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:12:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:15:00 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:19:57 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:26:59 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:27:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:03 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:03 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:48 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:27:50 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:50 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:50 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:27:50 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:28:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:28:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:42 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:42 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:51 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:51 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:29:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:41 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:41 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:43 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:30:43 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:01 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:01 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:04 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:04 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:08 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:34:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:38:24 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:39:08 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:09 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:09 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:10 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:10 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:12 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:12 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:14 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:14 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:17 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:39:17 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:00 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:00 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:01 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:01 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:42 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:42 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:43 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:43 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:40:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:24 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:24 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:41:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:09 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:09 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:11 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:11 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:12 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:42:12 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:22 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 17:58:24 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:24 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:43 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:43 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:44 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:44 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:51 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:51 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:58:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:59:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 17:59:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:00:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:00:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:01:06 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:01:06 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:01:10 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:01:10 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 18:05:23 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:11:55 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:12:33 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:14:44 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:15:58 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:21:21 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:21:34 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:32:16 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:32:21 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:32:45 Africa/Lagos] PHP Warning:  Undefined array key "sitecolor" in /home/benazdat/app.benazdata.com/mobile/home/includes/route.php on line 252
+[11-May-2024 18:34:14 Africa/Lagos] PHP Warning:  Undefined array key "sitecolor" in /home/benazdat/app.benazdata.com/mobile/home/includes/route.php on line 252
+[11-May-2024 18:35:34 Africa/Lagos] PHP Warning:  Undefined array key "sitecolor" in /home/benazdat/app.benazdata.com/mobile/home/includes/route.php on line 252
+[11-May-2024 18:47:28 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:52:09 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:54:54 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 18:57:56 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:05:48 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:05:51 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:05:51 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:05:52 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:05:52 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:15 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:15 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:36 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:06:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:29 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:29 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:33 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:07:33 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:11:46 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:12:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:12:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:12:59 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:12:59 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:26 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:26 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:13:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:18 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:16:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:26 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:16:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:27 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:16:31 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:31 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:34 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:16:35 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:35 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:38 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:41 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:16:41 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:17:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:17:42 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:17:42 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:18:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:18:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:18:59 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:19:00 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:19:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:03 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:03 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:04 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:04 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:05 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:05 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:08 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:09 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:09 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:10 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:19:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:16 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:18 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:18 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:31 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:19:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:19:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:03 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:03 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:04 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:04 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:17 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:22:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:22:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:06 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:23:09 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:23:11 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:11 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:12 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:12 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:14 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:14 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:14 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:14 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:16 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:23:17 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:23:23 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:23:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:26 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:26 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:23:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:24:19 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:24:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:24:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:24:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:24:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:25:09 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:25:39 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:25:43 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:25:43 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:25:44 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:25:44 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:26:49 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:27:06 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:27:13 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:30:06 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:30:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:30:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:14 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:14 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:16 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:21 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:30:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:24 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:24 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:30:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:31:10 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:31:19 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:31:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:31:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:31:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:31:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:03 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:32:08 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:32:10 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:10 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:11 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:11 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:15 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:32:20 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:32:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:24 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:24 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:26 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:26 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:27 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:32:57 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:33:00 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:33:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:03 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:03 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:05 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:05 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:07 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:33:07 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:34:24 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:34:46 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:37:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:37:24 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:37:44 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:37:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:48 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:48 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:57 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:37:59 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:37:59 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:38:01 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:38:01 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:38:11 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:38:11 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:39:22 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:39:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:39:23 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:39:23 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:22 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:40:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:26 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:26 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:39 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:40:39 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:43:09 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:43:45 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:46:52 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:46:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:46:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:46:57 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:46:57 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:54 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:54 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:49:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:53:12 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:55:39 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 19:55:48 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 19:55:49 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:55:49 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:55:51 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:55:51 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:56:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:56:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:56:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 19:56:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:01:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:01:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:11:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:11:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:11:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:11:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:11:51 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:11:51 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:20:56 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:21:00 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:21:00 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:21:04 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:21:05 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:21:05 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:21:05 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 20:25:05 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:25:27 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:25:59 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:26:01 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:01 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:02 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:10 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:10 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:13 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:25 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:34 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:34 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:38 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:26:46 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:27:14 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:27:55 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:34:55 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:36:39 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:37:09 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:38:57 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:39:21 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 67
+[11-May-2024 20:39:33 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:42:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:35 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:35 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:55 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:42:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:43:00 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:43:00 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:43:01 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:43:01 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:10 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:49:12 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:12 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:15 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:15 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:21 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:48 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:49:48 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:00 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:00 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:09 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:50:09 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:09 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:32 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 20:50:36 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:40 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:50:40 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 20:52:36 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:01:21 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:06:06 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:09:19 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:11:36 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:11:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:11:37 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:11:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:20:41 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:22:16 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:23:22 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:23:28 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:28 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:28 Africa/Lagos] PHP Warning:  Undefined array key "sitecolor" in /home/benazdat/app.benazdata.com/mobile/home/includes/route.php on line 252
+[11-May-2024 21:23:44 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/benazdat/app.benazdata.com/core/Controllers/Controller.php on line 170
+[11-May-2024 21:23:46 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:46 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:47 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:47 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:52 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:52 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:53 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:53 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:59 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:23:59 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:24:05 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:24:05 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:11 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:11 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:18 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:18 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:20 Africa/Lagos] PHP Warning:  Undefined array key 1 in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[11-May-2024 21:25:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/benazdat/app.benazdata.com/core/Models/Account.php on line 521
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "status" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 7
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "transref" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 12
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "date" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 16
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "servicename" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 20
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "servicedesc" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 24
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "amount" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 29
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "oldbal" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 33
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "newbal" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 37
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "servicename" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 50
+[16-Jul-2024 08:20:44 Africa/Lagos] PHP Warning:  Attempt to read property "servicename" on bool in /home/abakfcnn/public_html/NEW/mobile/home/transaction-details.php on line 55
+[16-Jul-2024 08:39:47 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 08:41:18 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 08:56:51 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 09:39:16 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 09:50:56 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 09:53:02 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 14:57:32 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/WEB/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 15:01:28 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/WEB/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 15:05:22 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/NEW/WEB/core/Controllers/Subscriber.php on line 67
+[16-Jul-2024 16:27:17 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[17-Jul-2024 09:23:26 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[18-Jul-2024 10:15:20 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[30-Jul-2024 09:04:50 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[31-Jul-2024 09:20:42 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[14-Aug-2024 10:51:35 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[14-Aug-2024 10:53:14 Africa/Lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/abakfcnn/public_html/web/core/Controllers/Subscriber.php on line 67
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[12-Sep-2024 16:23:38 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[12-Sep-2024 20:09:30 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[13-Sep-2024 08:49:23 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[13-Sep-2024 23:50:16 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[13-Sep-2024 23:50:16 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[13-Sep-2024 23:50:28 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[13-Sep-2024 23:50:28 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 165
+[14-Sep-2024 12:56:51 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[14-Sep-2024 20:02:47 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[16-Sep-2024 09:03:52 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[16-Sep-2024 10:27:03 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[17-Sep-2024 11:01:44 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[17-Sep-2024 11:02:18 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170
+[17-Sep-2024 11:03:11 Africa/Lagos] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/abakfcnn/public_html/web/core/Controllers/Controller.php on line 170

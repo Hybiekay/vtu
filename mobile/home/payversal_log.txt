@@ -1,0 +1,1 @@
+{"status":true,"service":"CREATE_VIRTUAL_ACCOUNT","business":"17DC7D6FC855445EA4C808F3090F608B","banks":[{"bankCode":"120001","bankName":"9Payment Service Bank","accountNumber":"5287103945","accountName":"ABAKON INTEGRATED SERVICES","account_type":"STATIC","expire_date":"","trackingReference":"FCM7BXDY8K46669B44MNIIVM"}]}

@@ -1,0 +1,202 @@
+[01-Feb-2024 19:16:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function getSiteSettings() on null in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php:506
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(62): Subscriber->getSiteSettings()
+#1 /home/benazdat/app.benazdata.com/mobile/login/index.php(5): require_once('/home/benazdat/...')
+#2 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 506
+[01-Feb-2024 19:19:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function getSiteSettings() on null in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php:506
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(62): Subscriber->getSiteSettings()
+#1 /home/benazdat/app.benazdata.com/mobile/login/index.php(5): require_once('/home/benazdat/...')
+#2 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 506
+[01-Feb-2024 19:26:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function getSiteSettings() on null in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php:506
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(62): Subscriber->getSiteSettings()
+#1 /home/benazdat/app.benazdata.com/mobile/login/index.php(5): require_once('/home/benazdat/...')
+#2 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 506
+[01-Feb-2024 19:26:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function getSiteSettings() on null in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php:506
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(62): Subscriber->getSiteSettings()
+#1 /home/benazdat/app.benazdata.com/mobile/login/index.php(5): require_once('/home/benazdat/...')
+#2 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 506
+[01-Feb-2024 19:26:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function getSiteSettings() on null in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php:506
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(62): Subscriber->getSiteSettings()
+#1 /home/benazdat/app.benazdata.com/mobile/login/index.php(5): require_once('/home/benazdat/...')
+#2 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php on line 506
+[02-Feb-2024 08:08:05 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/benazdat/app.benazdata.com/core/helpers/vendor/composer/platform_check.php on line 25
+[18-Feb-2024 06:20:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:20:52 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:23:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:28:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:28:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:28:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:30:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:31:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:37:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:37:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:39:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:39:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[18-Feb-2024 06:40:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[08-Mar-2024 06:27:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[23-Mar-2024 21:52:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[26-Mar-2024 06:58:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[26-Mar-2024 08:06:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[26-Mar-2024 09:22:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/benazdat/app.benazdata.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/benazdat/app.benazdata.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'benazdat_benzad...', '4pQc5%!S.=Kx')
+#1 /home/benazdat/app.benazdata.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/benazdat/app.benazdata.com/core/Controllers/Subscriber.php(47): Model->__construct()
+#3 /home/benazdat/app.benazdata.com/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/benazdat/app.benazdata.com/mobile/login/index.php(24): require_once('/home/benazdat/...')
+#5 {main}
+  thrown in /home/benazdat/app.benazdata.com/core/Models/Model.php on line 29
+[15-Jul-2024 16:23:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'abakfcnn_abakfcnn'@'localhost' (using password: YES) in /home/abakfcnn/public_html/NEW/core/Models/Model.php:29
+Stack trace:
+#0 /home/abakfcnn/public_html/NEW/core/Models/Model.php(29): PDO->__construct()
+#1 /home/abakfcnn/public_html/NEW/core/Models/Model.php(23): Model->connectDb()
+#2 /home/abakfcnn/public_html/NEW/core/Controllers/Subscriber.php(56): Model->__construct()
+#3 /home/abakfcnn/public_html/NEW/mobile/home/includes/route.php(66): Subscriber->__construct()
+#4 /home/abakfcnn/public_html/NEW/mobile/login/index.php(24): require_once('/home/abakfcnn/...')
+#5 {main}
+  thrown in /home/abakfcnn/public_html/NEW/core/Models/Model.php on line 29

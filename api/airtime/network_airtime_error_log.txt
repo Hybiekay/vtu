@@ -1,0 +1,1 @@
+{"network":"GLO","request-id":"80311725974075","amount":"1500","discount":1455,"status":"fail","message":"Transaction fail GLO VTU to 08116990209 , \u20a61500","phone_number":"08116990209","oldbal":"16194.17","newbal":16194.17,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}

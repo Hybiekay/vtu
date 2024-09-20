@@ -1,0 +1,12 @@
+[12-Sep-2024 16:42:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/abakfcnn/test.abakon.ng/core/Models/Model.php:42
+Stack trace:
+#0 /home/abakfcnn/test.abakon.ng/core/Models/Account.php(211): Model->sendMail()
+#1 /home/abakfcnn/test.abakon.ng/api/auth/register/index.php(70): Account->registerUser()
+#2 {main}
+  thrown in /home/abakfcnn/test.abakon.ng/core/Models/Model.php on line 42
+[12-Sep-2024 16:43:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/abakfcnn/test.abakon.ng/core/Models/Model.php:42
+Stack trace:
+#0 /home/abakfcnn/test.abakon.ng/core/Models/Account.php(211): Model->sendMail()
+#1 /home/abakfcnn/test.abakon.ng/api/auth/register/index.php(70): Account->registerUser()
+#2 {main}
+  thrown in /home/abakfcnn/test.abakon.ng/core/Models/Model.php on line 42

@@ -1,0 +1,3 @@
+[04-Feb-2024 08:11:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/benazdat/app.benazdata.com/core/Controllers/DataPin.php on line 152
+[04-Feb-2024 08:11:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/datapin/index.php on line 267
+[24-Feb-2024 19:25:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/benazdat/app.benazdata.com/core/Models/ApiModel.php:1061) in /home/benazdat/app.benazdata.com/api/datapin/index.php on line 178
