@@ -8,9 +8,9 @@
 	class Model{
 
 		public static $host="localhost";
-		public static $dbName="abakfcnn_newabak"; //Database Name
-		public static $username="abakfcnn_newabak"; // Database Username
-		public static $password="S-%=tZsXV@}+"; //Database Password
+		public static $dbName="eulogia_vtu"; //Database Name
+		public static $username="eulogia_vtu"; // Database Username
+		public static $password="eulogia_vtu"; //Database Password
  
         public $dbh;
         
