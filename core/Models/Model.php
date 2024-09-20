@@ -13,9 +13,10 @@
 		public static $password="eulogia_vtu"; //Database Password
  
         public $dbh;
-        
-		public $emailUsername="support@abakon.ng"; //Support Email Address
-		public $emailPassword="Email@2024"; //Support Email Password
+        //user: '',
+//  pass: 'ponbfteqikencbab',
+		public $emailUsername="akinwumisehinde@gmail.com"; //Support Email Address
+		public $emailPassword="ponbfteqikencbab"; //Support Email Password
 
         public $sitename;
 
@@ -45,7 +46,7 @@
                 //Server settings
                 //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                    //Enable verbose debug output
                 $mail->isSMTP();                                            //Send using SMTP
-                $mail->Host       = "smtp.almoaxxamvtu.com.ng";                //Set the SMTP server to send through
+                $mail->Host       = "smtp.gmail.com";                //Set the SMTP server to send through
                 $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
                 $mail->Username   = $this->emailUsername;                   //SMTP username
                 $mail->Password   = $this->emailPassword;                   //SMTP password

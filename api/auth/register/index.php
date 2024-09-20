@@ -1,12 +1,12 @@
 <?php
 require_once("../../autoloader.php");
-use OpenApi\Annotations as OA;
+
 
 // Allowed API Headers
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 header("Access-Control-Allow-Methods: POST");
-header("Allow: POST, OPTIONS, PUT, DELETE");
+header("Allow: POST ");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization');
 
 $headers = apache_request_headers();
