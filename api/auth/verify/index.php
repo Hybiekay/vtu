@@ -34,9 +34,9 @@ if ($requestMethod !== "POST") {
 $input = file_get_contents("php://input");
 $body = json_decode($input, true); // true for associative array
 
-if (isset($body["email"]) && isset($body["token"])) {
+if (isset($body["email"]) && isset($body["otp"])) {
     $email = $body["email"];
-    $token = $body["token"];
+    $token = $body["otp"];
 } else {
     http_response_code(422); // Unprocessable Entity
     $response["status"] = false;
@@ -53,7 +53,7 @@ if (!preg_match("/^\d{4}$/", $token)) {
     exit();
 }
 
-if (isset($_POST["email"]) && isset($_POST["token"])) { 
+if (isset($_POST["email"]) && isset($_POST["otp"])) { 
     $body = $_POST;
 }
 

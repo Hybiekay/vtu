@@ -208,7 +208,7 @@
 				
 					
 					";
-					$check=self::sendMail($email,$subject,$message);
+					//$check=self::sendMail($email,$subject,$message);
 
 					//Send Email To Admin
 					$subject2="New User Registration (".$this->sitename.")";
@@ -217,7 +217,12 @@
 					$message2.="<br/><br/><br/> <i>Notification Powered By Algoprime Technology</i>";
 					$check=self::sendMail($adminEmail,$subject2,$message2);
 
-					$data =  ["status" => "success", "msg" => "Registartion Successfull"];
+					return (object) ["status" => "success", 
+					"msg" => "Login Successfull", 
+					"token"=> $userLoginToken ,
+					"data"=> $result->fetchAll() , 
+					
+				];
 
 		       		
 		       } 
@@ -233,7 +238,9 @@
 			//Verify Registration Details
 			$dbh=$this->connect();
 			$hash=substr(sha1(md5($key)), 3, 10);
-	    	$c="SELECT sId,sFname,sLname,sEmail,sPass,sPhone,sState,sType,sRegStatus FROM subscribers WHERE sPhone=:ph AND sPass=:p";
+		
+			$hash=substr(sha1(md5($key)), 3, 10);
+	    	$c="SELECT sId,sFname,sLname,sEmail, sApiKey, sPass,sPhone,sState,sType,sRegStatus FROM subscribers WHERE sPhone=:ph AND sPass=:p";
 	    	$queryC = $dbh->prepare($c);
 	    	$queryC->bindParam(':ph',$phone,PDO::PARAM_STR);
 	     	$queryC->bindParam(':p',$hash,PDO::PARAM_STR);
@@ -288,10 +295,17 @@
 				//$check=self::sendMail($result->sEmail,$subject,$message);
 
 				
-				return (object) ["status" => "success", "msg" => "Login Successfull"];
+				return (object) ["status" => "success", 
+				"msg" => "Login Successfull", 
+				"token"=> $userLoginToken ,
+				"accesstoken"=> $result-> sApiKey ,
+				"data"=> $result, 
+				
+			];
 
 	      	}
-	      	else{return (object) ["status" => "fail", "msg" => "Invalid Username Or Password"];}
+	      	else{return (object) ["status" => "fail", 
+				"msg" => "Invalid Phone Or Password"];}
 
 	    }
 	      
@@ -431,10 +445,10 @@
 		
 	    //Recover Seller Account
 		public function updateUserKey($email,$code,$key){
-			
-			//Verify Registration Details
+			$passwrd = $key;
+			//Verify Registratio Details
 			$dbh=$this->connect();
-			$hash=substr(sha1(md5($key)), 3, 10);
+			$hash=substr(sha1(md5($passwrd)), 3, 10);
 			$verCode = mt_rand(1000,9999);
 	    	$c="UPDATE subscribers SET sPass=:k,sVerCode=:v WHERE sEmail=:e AND sVerCode=:c";
 	    	$queryC = $dbh->prepare($c);
@@ -442,8 +456,15 @@
 	    	$queryC->bindParam(':c',$code,PDO::PARAM_STR);
 	    	$queryC->bindParam(':k',$hash,PDO::PARAM_STR);
 	    	$queryC->bindParam(':v',$verCode,PDO::PARAM_INT);
-	     	if($queryC->execute()){return 0;}
-	      	else{return 1;}
+
+			$queryC->execute();
+			if ($queryC->rowCount() > 0) {
+				// Successfully updated
+				return 0;
+			} else {
+				// No rows affected (user not found or verification code incorrect)
+				return 1;
+			}
 
 	    }
 

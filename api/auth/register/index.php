@@ -109,7 +109,7 @@ if (!empty($transpin) && !preg_match("/^\d{4,6}$/", $transpin)) {
 // Call the registration function
 $result = $controller->registerUser($firstname, $lastname, $email, $phone, $password, $state, $account, $referal, $transpin);
 
-if ($result->status == 0) {
+if ($result->status == 'success') {
     // Registration successful
     header('HTTP/1.0 200 OK');
     $response["status"] = "success";

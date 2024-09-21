@@ -24,8 +24,11 @@ if ($requestMethod !== "POST") {
     exit();
 }
 
-// Extract the Authorization header
-if (!isset($headers['Authorization'])) {
+// Extract headers
+$headers = getallheaders(); // Get all headers without modifying case
+
+// Check for 'Authorization' or 'authorization' header
+if (!isset($headers['Authorization']) && !isset($headers['authorization'])) {
     http_response_code(401); // Unauthorized
     $response["status"] = "fail";
     $response["msg"] = "Authorization token is required";
@@ -34,8 +37,8 @@ if (!isset($headers['Authorization'])) {
 }
 
 // Extract the token (Assuming it’s in the format 'Bearer <token>')
-$authHeader = $headers['Authorization'];
-$token = str_replace('Bearer ', '', $authHeader);
+$authHeader = isset($headers['Authorization']) ? $headers['Authorization'] : $headers['authorization'];
+$token = str_replace('Bearer ', '', $authHeader); // Remove 'Bearer ' while keeping the token intact
 
 // Validate the token using the checkToken() function
 $userId = $controller->checkToken($token);
@@ -49,6 +52,9 @@ if (!$userId) {
 
 // Determine content type
 $contentType = isset($headers['Content-Type']) ? $headers['Content-Type'] : '';
+
+// Debugging: Output the content type for troubleshooting
+error_log("Content-Type received: " . $contentType);
 
 if (strpos($contentType, 'application/json') !== false) {
     // Handle JSON payload
@@ -67,15 +73,15 @@ if (strpos($contentType, 'application/json') !== false) {
 }
 
 // Check required fields
-if (isset($data["email"]) && isset($data["otp"])) {
+if (isset($data["email"]) && isset($data["otp"])  && isset($data['password'])) {
     $email = strip_tags($data["email"]);
     $otp = strip_tags($data["otp"]);
-    $password = isset($data["Password"]) ? strip_tags($data["Password"]) : '';
+    $password = strip_tags($data["password"]);
 
     // Clean parameters (add your own sanitization logic here)
     $email = InputValidator::cleanParameter($email, 'EMAIL');
     $otp = InputValidator::cleanParameter($otp, 'INTEGER');
-    $password = InputValidator::cleanParameter($password, 'STRING');
+   $password = InputValidator::cleanParameter($password, 'STRING');
 
     // Validate the OTP (must be exactly 4 digits)
     if (!preg_match("/^\d{4}$/", $otp)) {

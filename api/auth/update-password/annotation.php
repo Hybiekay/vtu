@@ -12,7 +12,7 @@
  *             mediaType="application/json",
  *             @OA\Schema(
  *                 @OA\Property(property="email", type="string", example="user@example.com"),
- *                 @OA\Property(property="token", type="string", example="123456"),
+ *                 @OA\Property(property="otp", type="string", example="3456"),
  *                 @OA\Property(property="password", type="string", example="NewPassword123!")
  *             )
  *         )

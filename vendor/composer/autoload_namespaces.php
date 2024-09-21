@@ -6,4 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Kraken' => array($vendorDir . '/kraken-io/kraken-php/lib'),
 );

@@ -7,9 +7,9 @@
  *     @OA\RequestBody(
  *         required=true,
  *         @OA\JsonContent(
- *             required={"email", "token"},
+ *             required={"email", "otp"},
  *             @OA\Property(property="email", type="string", example="user@example.com"),
- *             @OA\Property(property="token", type="string", example="123456")
+ *             @OA\Property(property="otp", type="string", example="3456")
  *         )
  *     ),
  *     @OA\Response(

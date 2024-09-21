@@ -8,7 +8,7 @@
     header("Allow: POST, OPTIONS, PUT, DELETE");
     header("Access-Control-Allow-Headers: X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Request-Method, Access-Control-Allow-Origin");
 
-    $headers = apache_request_headers();
+  
     $response = array();
     $controller = new Account;
    
@@ -44,10 +44,10 @@
     
     // Support Other API Format
     $phone= (isset($body->phone)) ? $body->phone : "";
-    $accesspass= (isset($body->accesspass)) ? $body->accesspass : "";
+    $accesspass= (isset($body->password)) ? $body->password : "";
     
     $phone = strip_tags($phone); $phone = filter_var($phone, FILTER_SANITIZE_STRING);
-    $accesspass = strip_tags($accesspass); $accesspass = filter_var($accesspass, FILTER_SANITIZE_STRING);
+  
     
    
     // -------------------------------------------------------------------
@@ -75,26 +75,25 @@
     
     
 
-    $result = $controller->loginUserFingerPrint($phone,$accesspass);
-    if($result["status"] == 0){
+    $result = $controller->loginUser($phone,$accesspass);
+    if($result->status == 'success'){
         header('HTTP/1.0 200 Success');
         $response['status']="success";
         $response['msg'] = "Login Successfull";
-        $response['name'] = $result["name"];
-        $response['phone'] = $result["phone"];
-        $response['token'] = $result["token"];
-        $response['accessToken'] = $result["accessToken"];
+        $response['token'] = $result->token;
+        $response['accessToken'] = $result->accessToken;
+        $response["user"] = $result->data;
         echo json_encode($response);
         exit();
     }
-    elseif($result["status"] == 1){
+    elseif($result->status == "fail"){
         header('HTTP/1.0 200 Success');
         $response['status']="invalid";
-        $response['msg'] = "Incorrect Details";
+        $response['msg'] = $result->msg;
         echo json_encode($response);
         exit();
     }
-    elseif($result["status"] == 2){
+    elseif($result->status == 2){
         header('HTTP/1.0 200 Success');
         $response['status']="blocked";
         $response['msg'] = "Account Blocked, Please Contact Admin";
