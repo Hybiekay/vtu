@@ -12,7 +12,6 @@ header("Allow: POST, OPTIONS, PUT, DELETE");
 header("Access-Control-Allow-Headers: X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Authorization, Access-Control-Allow-Methods");
 
 $controller = new Account;
-$headers = apache_request_headers();
 $response = array();
 
 // Check request method
