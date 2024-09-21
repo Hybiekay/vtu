@@ -16,13 +16,13 @@ $controller = new Account;
 date_default_timezone_set('Africa/Lagos');
 $requestMethod = $_SERVER["REQUEST_METHOD"];
 
-// if ($requestMethod !== "POST") {
-//     header('HTTP/1.0 400 Bad Request');
-//     $response["status"] = "fail";
-//     $response["msg"] = "Only POST method is allowed";
-//     echo json_encode($response);
-//     exit();
-// }
+if ($requestMethod !== "POST") {
+    header('HTTP/1.0 400 Bad Request');
+    $response["status"] = "fail";
+    $response["msg"] = "Only POST method is allowed";
+    echo json_encode($response);
+    exit();
+}
 
 // Get the JSON input and decode it
 $input = @file_get_contents("php://input");
