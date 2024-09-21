@@ -62,9 +62,9 @@ if (isset($_POST["email"]) && isset($_POST["otp"])) {
 // -------------------------------------------------------------------
 
 
-    if (isset($body["email"]) && isset($body["token"])) {
+    if (isset($body["email"]) && isset($body["otp"])) {
         $email = $body["email"];
-        $token = $body["token"];
+        $token = $body["otp"];
 
     // Validate the token (must be exactly 4 digits)
     

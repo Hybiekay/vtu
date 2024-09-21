@@ -208,7 +208,7 @@
 				
 					
 					";
-					//$check=self::sendMail($email,$subject,$message);
+					$check=self::sendMail($email,$subject,$message);
 
 					//Send Email To Admin
 					$subject2="New User Registration (".$this->sitename.")";
