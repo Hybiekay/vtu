@@ -4,7 +4,7 @@
     require_once("../../core/helpers/vendor/autoload.php");
 
     //Allowed API Headers
-    $headers = apache_request_headers();
+     
     $response = array();
     $controller = new ApiAccess;
     date_default_timezone_set('Africa/Lagos');
