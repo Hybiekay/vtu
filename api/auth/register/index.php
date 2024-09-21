@@ -1,21 +1,27 @@
 <?php
 require_once("../../autoloader.php");
 
-
 // Allowed API Headers
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
-header("Access-Control-Allow-Methods: POST");
-header("Allow: POST ");
+header('Access-Control-Allow-Methods: POST, OPTIONS');
+header("Allow: POST, OPTIONS");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization');
-
 
 $response = array();
 $controller = new Account;
 
 date_default_timezone_set('Africa/Lagos');
-$requestMethod = $_SERVER["REQUEST_METHOD"];
 
+// Handle OPTIONS requests (CORS preflight)
+$requestMethod = $_SERVER["REQUEST_METHOD"];
+if ($requestMethod === "OPTIONS") {
+    header("Access-Control-Allow-Methods: POST, OPTIONS");
+    header("HTTP/1.0 204 No Content");
+    exit();
+}
+
+// Check if the request method is POST
 if ($requestMethod !== "POST") {
     header('HTTP/1.0 400 Bad Request');
     $response["status"] = "fail";
@@ -41,7 +47,7 @@ $transpin = filter_var($body->transpin ?? "", FILTER_SANITIZE_NUMBER_INT);
 
 // Validate the inputs
 
-// Firstname and Lastname validation: Ensure no numbers or special characters
+// Firstname and Lastname validation
 if (empty($firstname) || !preg_match("/^[a-zA-Z-' ]*$/", $firstname)) {
     $response["status"] = "fail";
     $response["msg"] = "Valid firstname is required";
@@ -64,7 +70,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
     exit();
 }
 
-// Phone validation: Ensure only digits, typically Nigerian phone numbers are 11 digits
+// Phone validation: Nigerian phone numbers are typically 11 digits
 if (empty($phone) || !preg_match("/^\d{10,15}$/", $phone)) {
     $response["status"] = "fail";
     $response["msg"] = "Valid phone number is required";
@@ -96,9 +102,7 @@ if (!is_numeric($account)) {
     exit();
 }
 
-// Optional fields: No need to validate referral unless you have specific requirements
-
-// Transpin validation: Ensure it's a 4-6 digit number (depending on the app's requirement)
+// Transpin validation: Ensure it's a 4-6 digit number
 if (!empty($transpin) && !preg_match("/^\d{4,6}$/", $transpin)) {
     $response["status"] = "fail";
     $response["msg"] = "Transpin must be a 4-6 digit number";

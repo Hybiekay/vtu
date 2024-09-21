@@ -16,6 +16,13 @@ $response = array();
 
 // Check request method
 $requestMethod = $_SERVER["REQUEST_METHOD"];
+
+if ($requestMethod === "OPTIONS") {
+    header("Access-Control-Allow-Methods: POST, OPTIONS");
+    header("HTTP/1.0 204 No Content");
+    exit();
+}
+
 if ($requestMethod !== "POST") {
     http_response_code(405);
     $response["status"] = "fail";
